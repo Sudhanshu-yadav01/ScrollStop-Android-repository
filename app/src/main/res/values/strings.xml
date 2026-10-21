@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stop_scroll</string>
+    <string name="accessibility_service_description">Detects when YouTube or Instagram is open to track usage time.</string>
+</resources>
